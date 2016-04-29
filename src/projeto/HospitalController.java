@@ -1,4 +1,4 @@
-package projeto_soos;
+package projeto;
 
 import java.util.HashMap;
 

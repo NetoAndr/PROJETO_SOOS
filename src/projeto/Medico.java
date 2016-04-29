@@ -1,4 +1,4 @@
-package projeto_soos;
+package projeto;
 
 
 public class Medico extends Funcionario{
